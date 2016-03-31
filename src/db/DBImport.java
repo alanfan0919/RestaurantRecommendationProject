@@ -7,10 +7,10 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import org.json.JSONArray;
+
 import org.json.JSONException;
 import org.json.JSONObject;
-
+import org.json.JSONArray;
 
 public class DBImport {
 	public static void main(String[] args) {

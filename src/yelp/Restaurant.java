@@ -13,9 +13,9 @@ public class Restaurant {
     private String state;
     private String fullAddress;
     private double stars;
+    private String imageUrl;
     private double latitude;
     private double longitude;
-    private String imageUrl;
 
     public Restaurant(JSONObject object) {
 	   	 try {
